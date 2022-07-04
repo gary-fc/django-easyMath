@@ -1,0 +1,403 @@
+[
+  {
+    "model": "game.Level",
+    "pk": 1,
+    "fields": {
+      "name": "Level 1 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 2,
+    "fields": {
+      "name": "Level 2 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 3,
+    "fields": {
+      "name": "Level 3 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 4,
+    "fields": {
+      "name": "Level 4 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 5,
+    "fields": {
+      "name": "Level 5 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 6,
+    "fields": {
+      "name": "Level 6 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 7,
+    "fields": {
+      "name": "Level 7 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 8,
+    "fields": {
+      "name": "Level 8 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 9,
+    "fields": {
+      "name": "Level 9 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 10,
+    "fields": {
+      "name": "Level 10 - SUMA",
+      "area": 1
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 11,
+    "fields": {
+      "name": "Level 1 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 12,
+    "fields": {
+      "name": "Level 2 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 13,
+    "fields": {
+      "name": "Level 3 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 14,
+    "fields": {
+      "name": "Level 4 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 15,
+    "fields": {
+      "name": "Level 5 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 16,
+    "fields": {
+      "name": "Level 6 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 17,
+    "fields": {
+      "name": "Level 7 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 18,
+    "fields": {
+      "name": "Level 8 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 19,
+    "fields": {
+      "name": "Level 9 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 20,
+    "fields": {
+      "name": "Level 10 - RESTA",
+      "area": 2
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 21,
+    "fields": {
+      "name": "Level 1 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 22,
+    "fields": {
+      "name": "Level 2 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 23,
+    "fields": {
+      "name": "Level 3 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 24,
+    "fields": {
+      "name": "Level 4 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 25,
+    "fields": {
+      "name": "Level 5 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 26,
+    "fields": {
+      "name": "Level 6 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 27,
+    "fields": {
+      "name": "Level 7 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+   {
+    "model": "game.Level",
+    "pk": 28,
+    "fields": {
+      "name": "Level 8 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 29,
+    "fields": {
+      "name": "Level 9 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 30,
+    "fields": {
+      "name": "Level 10 - MULTIPLICACION",
+      "area": 3
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 31,
+    "fields": {
+      "name": "Level 1 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 32,
+    "fields": {
+      "name": "Level 2 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 33,
+    "fields": {
+      "name": "Level 3 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 34,
+    "fields": {
+      "name": "Level 4 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 35,
+    "fields": {
+      "name": "Level 5 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 36,
+    "fields": {
+      "name": "Level 6 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 37,
+    "fields": {
+      "name": "Level 7 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 38,
+    "fields": {
+      "name": "Level 8 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 39,
+    "fields": {
+      "name": "Level 9 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 40,
+    "fields": {
+      "name": "Level 10 - DIVISION",
+      "area": 4
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 41,
+    "fields": {
+      "name": "Level 1 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 42,
+    "fields": {
+      "name": "Level 2 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 43,
+    "fields": {
+      "name": "Level 3 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 44,
+    "fields": {
+      "name": "Level 4 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 45,
+    "fields": {
+      "name": "Level 5 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 46,
+    "fields": {
+      "name": "Level 6 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 47,
+    "fields": {
+      "name": "Level 7 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 48,
+    "fields": {
+      "name": "Level 8 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 49,
+    "fields": {
+      "name": "Level 9 - POTENCIA",
+      "area": 5
+    }
+  },
+  {
+    "model": "game.Level",
+    "pk": 50,
+    "fields": {
+      "name": "Level 10 - POTENCIA",
+      "area": 5
+    }
+  }
+
+]

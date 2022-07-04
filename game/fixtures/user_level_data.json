@@ -1,0 +1,30 @@
+[
+  {
+    "model": "game.UserLevel",
+    "pk": 1,
+    "fields": {
+      "name_user_level": "Basico"
+    }
+  },
+  {
+    "model": "game.UserLevel",
+    "pk": 2,
+    "fields": {
+      "name_user_level": "Normal"
+    }
+  },
+  {
+    "model": "game.UserLevel",
+    "pk": 3,
+    "fields": {
+      "name_user_level": "Experimentado"
+    }
+  },
+  {
+    "model": "game.UserLevel",
+    "pk": 4,
+    "fields": {
+      "name_user_level": "Certificado"
+    }
+  }
+]
